@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache
